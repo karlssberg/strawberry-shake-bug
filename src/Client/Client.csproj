@@ -16,4 +16,8 @@
     <AdditionalFiles Include="GraphQL\**\*.graphql" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Generated\" />
+  </ItemGroup>
+
 </Project>
