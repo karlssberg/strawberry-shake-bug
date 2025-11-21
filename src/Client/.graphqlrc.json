@@ -1,0 +1,11 @@
+{
+  "schema": "GraphQL/schema.graphql",
+  "documents": "GraphQL/**/*.graphql",
+  "extensions": {
+    "strawberryShake": {
+      "name": "GetStringMatchClient",
+      "namespace": "Client",
+      "url": "http://localhost:5000/graphql"
+    }
+  }
+}
